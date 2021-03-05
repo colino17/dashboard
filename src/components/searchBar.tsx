@@ -7,8 +7,9 @@ import selectedTheme from "./themeManager";
 
 const SearchInput = styled.input`
   width: 100%;
-  font-size: 3rem;
+  font-size: 2rem;
   border: none;
+  outline: none;
   border-bottom: 3px solid ${selectedTheme.accentColor};
   background: none;
   border-radius: 0;
