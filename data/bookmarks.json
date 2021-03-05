@@ -4,14 +4,6 @@
             "name": "Media",
             "items": [
                 {
-                    "name": "Library",
-                    "url": "https://en.wikipedia.org/"
-                },
-                {
-                    "name": "Youtube",
-                    "url": "https://www.youtube.com"
-                },
-                {
                     "name": "Netflix",
                     "url": "https://www.netflix.com/ca/"
                 },
@@ -26,19 +18,11 @@
                 {
                     "name": "WWE Network",
                     "url": "https://watch.wwe.com"
-                },
-                {
-                    "name": "Comics",
-                    "url": "https://en.wikipedia.org/"
-                },
-                {
-                    "name": "Books",
-                    "url": "https://www.youtube.com"
                 }
             ]
         },
         {
-            "name": "Management",
+            "name": "Network",
             "items": [
                 {
                     "name": "Modem",
@@ -53,12 +37,25 @@
                     "url": "https://www.netflix.com/ca/"
                 },
                 {
-                    "name": "Services",
+                    "name": "Service Management",
                     "url": "https://www.primevideo.comd"
                 },
                 {
                     "name": "Ad Blocking",
                     "url": "https://www.disneyplus.com/en-ca/"
+                }
+            ]
+        },
+        {
+            "name": "Services",
+            "items": [
+                {
+                    "name": "Teksavvy",
+                    "url": "https://mysavvy.teksavvy.com/"
+                },
+                {
+                    "name": "Koodo",
+                    "url": "www.koodomobile.com/my-account/"
                 },
                 {
                     "name": "Downloads",
@@ -74,9 +71,6 @@
                 }
             ]
         },
-        
-        
-        
         {
             "name": "Links",
             "items": [
@@ -99,14 +93,6 @@
                 {
                     "name": "Github",
                     "url": "https://github.com/colino17"
-                },
-                {
-                    "name": "Teksavvy",
-                    "url": "https://mysavvy.teksavvy.com/"
-                },
-                {
-                    "name": "Koodo",
-                    "url": "www.koodomobile.com/my-account/"
                 }
             ]
         }
