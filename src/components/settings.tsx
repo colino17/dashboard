@@ -145,20 +145,6 @@ const Settings = () => {
           <Button onClick={() => window.location.reload()}>Refresh</Button>
         </FormContainer>
       </SelectContainer>
-      <Table>
-        <tbody>
-          <TableRow>
-            <HeadCell>Search Provider</HeadCell>
-            <HeadCell>Prefix</HeadCell>
-          </TableRow>
-          {searchData.providers.map((provider, index) => (
-            <TableRow key={provider.name + index}>
-              <TableCell>{provider.name}</TableCell>
-              <TableCell>{provider.prefix}</TableCell>
-            </TableRow>
-          ))}
-        </tbody>
-      </Table>
     </Modal>
   );
 };
