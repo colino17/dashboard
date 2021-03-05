@@ -6,8 +6,8 @@ import { handleResponse, ErrorMessage } from "./elements";
 import selectedTheme from "./themeManager";
 
 const SearchInput = styled.input`
-  width: 80%;
-  font-size: 4rem;
+  width: 100%;
+  font-size: 3rem;
   border: none;
   border-bottom: 3px solid ${selectedTheme.accentColor};
   background: none;
