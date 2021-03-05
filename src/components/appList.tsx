@@ -40,18 +40,11 @@ const AppList = () => {
 
   return (
     <ListContainer>
-      <Headline>Applications</Headline>
       {error && <ErrorMessage>{error}</ErrorMessage>}
       {categories &&
         categories.map(({ name, items }, idx) => (
           <AppCategory key={[name, idx].join("")} name={name} items={items} />
         ))}
-      {apps && (
-        <AppCategory
-          name={categories ? "Uncategorized apps" : ""}
-          items={apps}
-        />
-      )}
     </ListContainer>
   );
 };
