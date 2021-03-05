@@ -25,13 +25,13 @@ const DateText = styled.h3`
 const getGreeting = () => {
   switch (Math.floor(new Date().getHours() / 6)) {
     case 0:
-      return "Good night!";
+      return "Good Night!";
     case 1:
-      return "Good morning!";
+      return "Good Morning!";
     case 2:
-      return "Good afternoon!";
+      return "Good Afternoon!";
     case 3:
-      return "Good evening!";
+      return "Good Evening!";
     default:
       break;
   }
