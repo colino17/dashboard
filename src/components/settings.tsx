@@ -125,7 +125,7 @@ const Settings = () => {
   }, [newTheme]);
 
   return (
-    <Modal element="icon" icon="more_vert">
+    <Modal element="icon" icon="menu">
       {error && <ErrorMessage>{error}</ErrorMessage>}
       <SelectContainer>
         <Headline>Theme:</Headline>
