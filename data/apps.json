@@ -55,34 +55,6 @@
                     "icon": "library_books"
                 }
             ]
-        },
-        {
-            "items": [
-                {
-                    "name": "Modem",
-                    "displayURL": "Networking",
-                    "URL": "https://example.com",
-                    "icon": "video_library"
-                },
-                {
-                    "name": "Router",
-                    "displayURL": "Networking",
-                    "URL": "https://mail.google.com/mail/?tab=wm&authuser=0",
-                    "icon": "subscriptions"
-                },
-                {
-                    "name": "Server",
-                    "displayURL": "Networking",
-                    "URL": "https://drive.google.com/?tab=wo&authuser=0",
-                    "icon": "collections"
-                },
-                {
-                    "name": "Services",
-                    "displayURL": "Networking",
-                    "URL": "https://example.com",
-                    "icon": "library_books"
-                }
-            ]
         }
     ],
     "apps": [
