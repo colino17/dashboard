@@ -31,11 +31,10 @@ const App = () => (
   <>
     <GlobalStyle />
     <AppContainer>
-      <SearchBar />
+      <SearchBar /> <Settings />
       <Greeter />
       <AppList />
       <BookmarkList />
-      <Settings />
     </AppContainer>
   </>
 );
