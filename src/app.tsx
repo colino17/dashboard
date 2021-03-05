@@ -32,7 +32,7 @@ const App = () => (
     <GlobalStyle />
     <AppContainer>
       <Settings />
-      <SearchBar />
+      <SearchBar /><Settings />
       <Greeter />
       <AppList />
       <BookmarkList />
