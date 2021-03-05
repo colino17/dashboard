@@ -6,7 +6,6 @@ import Greeter from "./components/greeter";
 import AppList from "./components/appList";
 import BookmarkList from "./components/bookmarkList";
 import Settings from "./components/settings";
-import Imprint from "./components/imprint";
 
 import selectedTheme from "./components/themeManager";
 
@@ -33,11 +32,10 @@ const App = () => (
     <GlobalStyle />
     <AppContainer>
       <SearchBar />
-      <Settings />
       <Greeter />
       <AppList />
       <BookmarkList />
-      <Imprint />
+      <Settings />
     </AppContainer>
   </>
 );
