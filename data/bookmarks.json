@@ -22,31 +22,48 @@
             ]
         },
         {
+            "name": "Media Management",
+            "items": [
+                {
+                    "name": "Channel Management",
+                    "url": "channels.local"
+                },
+                {
+                    "name": "Downloads",
+                    "url": "downloads.local"
+                },
+                {
+                    "name": "PVR Queue",
+                    "url": "https://pvr.url"
+                },
+                {
+                    "name": "DVR Queue",
+                    "url": "https://dvr.url"
+                }
+            ]
+        },
+        {
             "name": "Network",
             "items": [
                 {
                     "name": "Modem",
-                    "url": "https://en.wikipedia.org/"
+                    "url": "modem.local"
                 },
                 {
                     "name": "Router",
-                    "url": "https://www.youtube.com"
+                    "url": "router.local"
+                },
+                {
+                    "name": "Wireless",
+                    "url": "router.local"
                 },
                 {
                     "name": "Server",
-                    "url": "https://www.netflix.com/ca/"
+                    "url": "server.local"
                 },
                 {
-                    "name": "Service Management",
-                    "url": "https://www.primevideo.comd"
-                },
-                {
-                    "name": "ZWave Panel",
-                    "url": "https://www.primevideo.comd"
-                },
-                {
-                    "name": "Ad Blocking",
-                    "url": "https://www.disneyplus.com/en-ca/"
+                    "name": "Services",
+                    "url": "services.local"
                 }
             ]
         },
@@ -62,16 +79,16 @@
                     "url": "www.koodomobile.com/my-account/"
                 },
                 {
-                    "name": "Downloads",
-                    "url": "https://watch.wwe.com"
+                    "name": "Backup Service",
+                    "url": "backup.local"
                 },
                 {
-                    "name": "PVR Queue",
-                    "url": "https://en.wikipedia.org/"
+                    "name": "ZWave Panel",
+                    "url": "zwave.local"
                 },
                 {
-                    "name": "DVR Queue",
-                    "url": "https://www.youtube.com"
+                    "name": "Ad Blocking",
+                    "url": "ad.local"
                 }
             ]
         },
