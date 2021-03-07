@@ -5,7 +5,7 @@
                 {
                     "name": "Home",
                     "displayURL": "Application",
-                    "URL": "https://example.com",
+                    "URL": "https://home.url",
                     "icon": "home"
                 },
                 {
@@ -23,7 +23,7 @@
                 {
                     "name": "Recipes",
                     "displayURL": "Application",
-                    "URL": "https://example.com",
+                    "URL": "https://recipes.url",
                     "icon": "restaurant"
                 }
             ]
@@ -33,7 +33,7 @@
                 {
                     "name": "Media Library",
                     "displayURL": "Media",
-                    "URL": "https://example.com",
+                    "URL": "https://media.url",
                     "icon": "video_library"
                 },
                 {
@@ -45,13 +45,13 @@
                 {
                     "name": "Comics",
                     "displayURL": "Media",
-                    "URL": "https://drive.google.com/?tab=wo&authuser=0",
+                    "URL": "https://comics.url",
                     "icon": "collections"
                 },
                 {
                     "name": "Books",
                     "displayURL": "Media",
-                    "URL": "https://example.com",
+                    "URL": "https://books.url",
                     "icon": "library_books"
                 }
             ]
