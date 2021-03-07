@@ -21,7 +21,7 @@ Getting Dashboard to run is fairly simple and can be accomplished with two techn
 Prerequisites: yarn, npm, node
 
 ```
-$ git clone https://github.com/phntxx/dashboard.git
+$ git clone https://github.com/colino17/dashboard.git
 $ cd dashboard/
 $ yarn
 $ yarn build
